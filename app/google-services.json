@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201502582999",
+    "firebase_url": "https://khaata-61479.firebaseio.com",
+    "project_id": "khaata-61479",
+    "storage_bucket": "khaata-61479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201502582999:android:31d16e55c45a678885a892",
+        "android_client_info": {
+          "package_name": "com.example.khaata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201502582999-pugiako00u4ab6lna7g7o6mvb21avl78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khaata",
+            "certificate_hash": "77d603d382a1dc7476b451443bfb54a780b5aa59"
+          }
+        },
+        {
+          "client_id": "201502582999-qk4so54p5s5nevef9ip4ivheeac528cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsrrQ1Bg08r1_lKJGpm_9LVoQ2Mq0duBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201502582999-qk4so54p5s5nevef9ip4ivheeac528cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
