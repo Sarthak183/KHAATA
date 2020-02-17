@@ -1,5 +1,4 @@
 package com.example.khaata;
-
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
