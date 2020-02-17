@@ -43,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 String memail = email.getText().toString().trim();
                 String mpassword = password.getText().toString().trim();
-
                 if(TextUtils.isEmpty(memail))
                 {
                     email.setError("Required Field..");
